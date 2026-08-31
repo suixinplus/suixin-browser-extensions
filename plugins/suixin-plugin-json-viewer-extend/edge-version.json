@@ -1,8 +1,8 @@
 {
   "name": "JSON Viewer Extend · 随心录Plus",
-  "latest_version": "1.0.5",
+  "latest_version": "1.0.6",
   "min_browser_version": "1.0.5",
   "update_url": "https://microsoftedge.microsoft.com/addons/search/%E9%9A%8F%E5%BF%83%E5%BD%95Plus",
   "release_notes": "修复若干已知问题，优化性能",
-  "released_at": "2026-08-23"
+  "released_at": "2026-08-30"
 }
